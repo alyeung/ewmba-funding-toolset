@@ -1,0 +1,10 @@
+# Ignore everything by default
+/*
+
+# Except these files/folders
+!/README.md
+!/templates/
+!/.gitignore
+
+# Still ignore OS junk
+.DS_Store
