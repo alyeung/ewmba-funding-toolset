@@ -5,6 +5,7 @@
 !/README.md
 !/templates/
 !/.gitignore
+!/LICENSE
 
 # Still ignore OS junk
 .DS_Store
