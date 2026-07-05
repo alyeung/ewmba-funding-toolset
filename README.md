@@ -77,6 +77,10 @@ Use the following prompt format:
 *   **[templates/FUNDING_PROPOSAL_TEMPLATE.md](file:///Users/allanyeung/Documents/ewmba-fund/templates/FUNDING_PROPOSAL_TEMPLATE.md)**: Master template optimized for GA compliance.
 *   **[templates/2026-27 Funding Guide.md](file:///Users/allanyeung/Documents/ewmba-fund/templates/2026-27%20Funding%20Guide.md)**: The official policy manual.
 *   **[templates/GA Funding - CalLink at UC Berkeley.pdf](file:///Users/allanyeung/Documents/ewmba-fund/templates/GA%20Funding%20-%20CalLink%20at%20UC%20Berkeley.pdf)**: Schedule and deadlines.
+*   **[examples/](file:///Users/allanyeung/Documents/ewmba-fund/examples)**: Real proposal examples and analyses.
+    *   **[examples/WE_LAUNCH_FUNDING_PROPOSAL.md](file:///Users/allanyeung/Documents/ewmba-fund/examples/WE_LAUNCH_FUNDING_PROPOSAL.md)**: The WeLaunch funding proposal. This proposal was **approved** by the GA (final allocation: $1,500). A Word document format is available at [examples/WE_LAUNCH_FUNDING_PROPOSAL.docx](file:///Users/allanyeung/Documents/ewmba-fund/examples/WE_LAUNCH_FUNDING_PROPOSAL.docx).
+    *   **[examples/RELAUNCH_FUNDING_PROPOSAL.md](file:///Users/allanyeung/Documents/ewmba-fund/examples/RELAUNCH_FUNDING_PROPOSAL.md)**: The ReLaunch supplementary funding proposal. This proposal was **abandoned/not submitted** because catering was already available through other sources.
+    *   **[examples/LESSONS_LEARNED.md](file:///Users/allanyeung/Documents/ewmba-fund/examples/LESSONS_LEARNED.md)**: A summary of key lessons learned from Summer round approvals and decisions across Registered Student Organizations (RSOs).
 
 ---
 
