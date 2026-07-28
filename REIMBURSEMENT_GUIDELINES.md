@@ -1,10 +1,10 @@
-# 📋 UC Berkeley GA & EWMBAA Reimbursement Guidelines
+# UC Berkeley GA & EWMBAA Reimbursement Guidelines
 
 This guide details the requirements and procedures for submitting expense reports and receiving reimbursements through the **Graduate Assembly (GA)** and the **Evening & Weekend MBA Association (EWMBAA)**.
 
 ---
 
-## ⚡ 5 Steps to Reimbursement (Send this to Payees)
+## 5 Steps to Reimbursement (Send this to Payees)
 
 If you made an authorized out-of-pocket purchase for an event, follow these 5 steps to submit your reimbursement request. 
 *(Note: If you want reimbursements to go to different people, **each person** must submit their own request and provide the information below. Reimbursements can only be issued to the person who actually made the purchase.)*
@@ -42,7 +42,7 @@ Once you have completed steps 1–4, email the following items to your organizat
 
 ---
 
-## 🛠️ CalLink Instructions for Officers / Financial Requestors
+## CalLink Instructions for Officers / Financial Requestors
 
 Only designated Financial Requestors or Agents can submit purchase requests. When submitting a reimbursement request for a student:
 1. Log into [CalLink](https://callink.berkeley.edu/).
@@ -56,7 +56,7 @@ Only designated Financial Requestors or Agents can submit purchase requests. Whe
 
 ---
 
-## 🏛️ Graduate Assembly (GA) Compliance Rules
+## Graduate Assembly (GA) Compliance Rules
 
 When using GA funding (as opposed to EWMBAA internal reserves), the following rules apply:
 
@@ -68,7 +68,7 @@ When using GA funding (as opposed to EWMBAA internal reserves), the following ru
 
 ---
 
-## 💼 EWMBAA Internal Funding Rules
+## EWMBAA Internal Funding Rules
 
 For expenses being covered by the EWMBAA's budget:
 
