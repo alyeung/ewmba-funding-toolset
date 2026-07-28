@@ -3,6 +3,8 @@
 
 Welcome, EWMBA Student Leaders! This workspace is designed to help you draft high-impact, GA-compliant funding proposals using AI. Below is the current funding schedule, followed by options for using these tools.
 
+👉 **Looking for reimbursements?** Follow the **[5 Steps to Reimbursement](file:///Users/allanyeung/Documents/ewmba-fund/REIMBURSEMENT_GUIDELINES.md#⚡-5-steps-to-reimbursement-send-this-to-payees)** guidelines.
+
 ---
 
 ## GA Funding Proposal Schedule (2026-2027)
