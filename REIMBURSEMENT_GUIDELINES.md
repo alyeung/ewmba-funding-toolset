@@ -15,10 +15,10 @@ Only board/officer members on the CalLink roster can submit requests (either as 
 *   You cannot submit a reimbursement on behalf of someone else.
 
 ### Step 2: Set Up Direct Deposit (DocuSign)
-To receive payment via direct deposit (EFT) rather than a paper check in the mail, you must complete the authorization:
-1. Complete the secure [ASUC/GA Direct Deposit Authorization DocuSign](https://powerforms.docusign.net/30413e7e-b85b-4c0b-8f05-6ffe10bafb77?env=na3&acct=620e8a46-493a-4013-a8aa-1bce714f8b8a&accountId=620e8a46-493a-4013-a8aa-1bce714f8b8a).
+To receive payment via direct deposit (EFT) rather than a paper check in the mail, you must complete the ASUC-specific authorization. 
+*(Note: ASUC Finance is not connected to the UC Berkeley payment system and does not have access to CalCentral or UCPath direct deposit records. Payees MUST sign up for ASUC direct deposit using the link below even if they already have university direct deposit set up.)*
+1. Complete the secure [ASUC/GA Direct Deposit Authorization Form](https://na3.docusign.net/Member/PowerFormSigning.aspx?PowerFormId=30413e7e-b85b-4c0b-8f05-6ffe10bafb77&env=na3&acct=620e8a46-493a-4013-a8aa-1bce714f8b8a&v=2).
 2. Upload a **voided check or a current bank statement** showing your name and account number to the DocuSign. Do not upload other files.
-3. Make sure direct deposit is also set up in your personal **CalCentral** account under "My Finances."
 
 ### Step 3: Look Up Your Payee Details & Unique ID (UID)
 Ensure you have the following information ready:
