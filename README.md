@@ -74,6 +74,7 @@ Use the following prompt format:
 ---
 
 ## Project Structure
+*   **[REIMBURSEMENT_GUIDELINES.md](file:///Users/allanyeung/Documents/ewmba-fund/REIMBURSEMENT_GUIDELINES.md)**: 5-step checklist for payees and CalLink instructions for officers.
 *   **[templates/FUNDING_PROPOSAL_TEMPLATE.md](file:///Users/allanyeung/Documents/ewmba-fund/templates/FUNDING_PROPOSAL_TEMPLATE.md)**: Master template optimized for GA compliance.
 *   **[templates/2026-27 Funding Guide.md](file:///Users/allanyeung/Documents/ewmba-fund/templates/2026-27%20Funding%20Guide.md)**: The official policy manual.
 *   **[templates/GA Funding - CalLink at UC Berkeley.pdf](file:///Users/allanyeung/Documents/ewmba-fund/templates/GA%20Funding%20-%20CalLink%20at%20UC%20Berkeley.pdf)**: Schedule and deadlines.
