@@ -9,9 +9,9 @@ This guide details the requirements and procedures for submitting expense report
 If you made an authorized out-of-pocket purchase for an event, follow these 5 steps to submit your reimbursement request. 
 *(Note: If you want reimbursements to go to different people, **each person** must submit their own request and provide the information below. Reimbursements can only be issued to the person who actually made the purchase.)*
 
-### Step 1: Ensure You Have the "Financial Requestor" Role
+### Step 1: Find an Officer or Board Member to Submit the Expense Report
 Only board/officer members on the CalLink roster can submit requests (either as **ASUC/GA Agents** or **Financial Requestors**).
-*   If you are a regular member, contact a Financial Requestor to create an expense report.
+*   If you are a regular member and not an EWMBAA officer, contact a Financial Requestor to create an expense report.
 *   You cannot submit a reimbursement on behalf of someone else.
 
 ### Step 2: Set Up Direct Deposit (DocuSign)
