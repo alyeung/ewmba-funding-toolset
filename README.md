@@ -13,12 +13,12 @@ Below is the official GA Funding deadlines schedule extracted from the [GA Fundi
 
 | Round | Proposal Deadline | Decisions Announced | Max Funding & Limits | Notes |
 | :--- | :--- | :--- | :--- | :--- |
-| **Summer** | June 16, 2026 | June 25, 2026 | **$1,500** Large Project / **$2,000** (Plant-Based) + **$500** Continuing | Large-Project Funding available specifically for events between June 30 and September 12. Approved by the Executive. |
-| **September** | August 31, 2026 | September 10, 2026 | **$1,500** Large Project / **$2,000** (Plant-Based) + **$500** Continuing | Large-Project Funding available. |
+| **Summer** | June 16, 2026 | June 25, 2026 | **$1,500** Large Project (**$2,000** if Plant-Based) + **$500** Continuing | Large-Project Funding available specifically for events between June 30 and September 12. Approved by the Executive. |
+| **September** | August 31, 2026 | September 10, 2026 | **$1,500** Large Project (**$2,000** if Plant-Based) + **$500** Continuing | Large-Project Funding available. |
 | **October** | September 15, 2026 | October 1, 2026 | **$500** Continuing | |
 | **November** | October 20, 2026 | November 5, 2026 | **$500** Continuing | |
 | **December** | November 17, 2026 | December 3, 2026 | **$500** Continuing | |
-| **January** | November 17, 2026 | December 3, 2026 | **$1,500** Large Project / **$2,000** (Plant-Based) + **$500** Continuing | Large-Project Funding available. Early deadline. New GRSOs starting in Spring are encouraged to apply. |
+| **January** | November 17, 2026 | December 3, 2026 | **$1,500** Large Project (**$2,000** if Plant-Based) + **$500** Continuing | Large-Project Funding available. Early deadline. New GRSOs starting in Spring are encouraged to apply. |
 | **February** | January 19, 2027 | February 4, 2027 | **$500** Continuing | |
 | **March** | February 16, 2027 | March 4, 2027 | **$500** Continuing | |
 | **April** | March 16, 2027 | April 1, 2027 | **$500** Continuing | |
