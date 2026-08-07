@@ -23,7 +23,7 @@ To receive payment via direct deposit (EFT) rather than a paper check in the mai
 ### Step 3: Look Up Your Payee Details & Unique ID (UID)
 Ensure you have the following information ready:
 1. **Payee Mailing Address:** First Name, Last Name, Street Address, City, State, and Zip Code (must match the name on the bank account).
-2. **Unique ID (UID):** Look up your UID in the [Berkeley People Directory](https://portal.berkeley.edu/people/search) by searching your name.
+2. **Unique ID (UID):** Look up your UID in the [Berkeley People Directory](https://www.berkeley.edu/directory/) by searching your name.
 3. **Contact Details:** Your phone number and email address (for payment status updates).
 
 ### Step 4: Prepare Receipts & Proof of Payment
@@ -33,12 +33,18 @@ All reimbursements require original itemized receipts and proof of payment:
 *Warning: Cash/check payments from personal accounts and peer-to-peer payments (Zelle, Venmo, PayPal, Cashapp) are strictly banned and cannot be reimbursed.*
 
 ### Step 5: Send Payee Details and Receipts to the Financial Requestor
-Once you have completed steps 1–4, email the following items to your organization's Financial Requestor so they can submit the CalLink request for you:
-*   [ ] **Payee Information:** First Name, Last Name, Street Address, City, State, and Zip Code (must match name on the bank account).
-*   [ ] **Unique ID (UID):** Look up your UID in the [Berkeley People Directory](https://portal.berkeley.edu/people/search).
-*   [ ] **Contact Details:** Your phone number and email address (for payment updates).
-*   [ ] **Original Itemized Receipt:** Showing vendor name, date, items, total, and zero remaining balance.
-*   [ ] **Proof of Payment:** A screenshot of the online banking transaction showing your name, last 4 digits of the card/account, transaction date, amount, and the vendor.
+Once you have completed steps 1–4, copy the table below, fill out the details, and email it along with your receipts and proof of payment to your organization's Financial Requestor so they can submit the CalLink request for you:
+
+| Item | Your Details (Fill in this column) |
+| :--- | :--- |
+| **Payee First Name** | |
+| **Payee Last Name** | |
+| **Mailing Address** | (Street, City, State, Zip Code - must match bank account name) |
+| **Unique ID (UID)** | (Look up on [Berkeley People Directory](https://www.berkeley.edu/directory/)) |
+| **Phone Number** | |
+| **Email Address** | (For payment updates) |
+| **Original Itemized Receipt** | (Attach to email - must show vendor, date, items, total, zero balance) |
+| **Proof of Payment Screenshot** | (Attach to email - must show name, last 4 card digits, date, amount, vendor) |
 
 ---
 
