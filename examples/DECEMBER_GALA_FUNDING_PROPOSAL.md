@@ -13,14 +13,14 @@
     *   **Large-Project Funding:** September Round (Deadline: August 31, 2026; Decisions: September 10, 2026)
     *   **Continuing Funding:** November/December Round (Deadline: Mid-month; Decisions: Early December)
 *   **Total Requested:** **$2,000** total ($1,500 Large-Project + $500 Continuing)
-*   **Event Date:** Friday, December 11, 2026
+*   **Event Date:** Saturday, December 5, 2026
 *   **Location:** Spieker Forum, Haas School of Business (On-Campus)
 
 ---
 
 ## 2. Event Overview
 *   **Purpose:** The Berkeley Business School Winter Gala is a premier student-led networking and celebratory event designed to build interdisciplinary community connections across graduate students from Haas (EWMBA, MBA, MFE, MST) and other UCB graduate departments. The gala provides a structured social space that fosters a vibrant graduate student community, educational alignment, and professional integration.
-*   **Date & Location:** December 11, 2026. Spieker Forum, Haas School of Business (On-Campus).
+*   **Date & Location:** December 5, 2026. Spieker Forum, Haas School of Business (On-Campus).
     *   *Compliance Note:* Hosting the gala on-campus at Haas ensures 100% compliance with the GA Location Restriction requiring sponsored activities to be on-campus or within a 2-mile radius of the Campus Park.
 *   **Expected Attendance:** 
     *   UCB Graduate Students: ~200
