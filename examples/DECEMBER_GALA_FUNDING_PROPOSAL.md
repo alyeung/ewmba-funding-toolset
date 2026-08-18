@@ -14,14 +14,14 @@
     *   **Continuing Funding:** November/December Round (Deadline: Mid-month; Decisions: Early December)
 *   **Total Requested:** **$2,000** total ($1,500 Large-Project + $500 Continuing)
 *   **Event Date:** Saturday, December 5, 2026
-*   **Location:** Spieker Forum, Haas School of Business (On-Campus)
+*   **Location:** TBD (Will be held on-campus or within a 2-mile radius of the Campus Park)
 
 ---
 
 ## 2. Event Overview
 *   **Purpose:** The Berkeley Business School Winter Gala is a premier student-led networking and celebratory event designed to build interdisciplinary community connections across graduate students from Haas (EWMBA, MBA, MFE, MST) and other UCB graduate departments. The gala provides a structured social space that fosters a vibrant graduate student community, educational alignment, and professional integration.
-*   **Date & Location:** December 5, 2026. Spieker Forum, Haas School of Business (On-Campus).
-    *   *Compliance Note:* Hosting the gala on-campus at Haas ensures 100% compliance with the GA Location Restriction requiring sponsored activities to be on-campus or within a 2-mile radius of the Campus Park.
+*   **Date & Location:** December 5, 2026. Location: TBD.
+    *   *Compliance Note:* The final venue will be selected to strictly comply with the GA Location Restriction (either on-campus or within a 2-mile radius from the edge of the Campus Park).
 *   **Expected Attendance:** 
     *   UCB Graduate Students: ~350
     *   Non-Graduate Students (Partners/Alumni/Staff): ~100
@@ -49,7 +49,7 @@
 
 *   [ ] **Sponsoring Delegate:** `______________________` (Mandatory: Sponsoring delegate's name must be added before submission).
 *   [ ] **Funding Quiz:** Sponsoring officer has completed the 2026-27 GA Funding Quiz with a score of 100% (Mandatory).
-*   [x] **Location Compliance:** 100% on-campus at Haas School of Business (within the 2-mile radius).
+*   [ ] **Location Compliance:** Venue to be selected strictly on-campus or within the 2-mile radius of campus (Mandatory).
 *   [x] **Open Access:** Event is open to all UCB graduate and professional students.
 *   [x] **Plant-Based Certification:** No (Not seeking plant-based climate-conscious bonus; funding stays within standard caps).
 *   [ ] **GA Events Calendar:** Event will be posted to the official GA Events Calendar upon funding approval.
@@ -61,4 +61,4 @@
 ---
 
 ## 5. Strategic Rationale
-The Berkeley Business School Winter Gala is the largest Haas-led graduate social event of the Fall semester. Securing the full $2,000 semester cap ($1,500 Large-Project + $500 Continuing) from the Graduate Assembly enables the EWMBA Association to keep ticket prices low and accessible for all UCB graduate students. Keeping the venue on-campus at Haas ensures the event remains highly accessible, maintains location compliance, and operates with minimal overhead. GA funding will be strictly applied to catering and non-alcoholic drinks, ensuring full compliance with the GA guidelines, while club reserves and ticket sales will cover secondary event costs.
+The Berkeley Business School Winter Gala is the largest Haas-led graduate social event of the Fall semester. Securing the full $2,000 semester cap ($1,500 Large-Project + $500 Continuing) from the Graduate Assembly enables the EWMBA Association to keep ticket prices low and accessible for all UCB graduate students. Keeping the venue on-campus or within the compliant 2-mile radius ensures the event remains highly accessible and satisfies all location compliance requirements. GA funding will be strictly applied to catering and non-alcoholic drinks, ensuring full compliance with the GA guidelines, while club reserves and ticket sales will cover secondary event costs.
