@@ -1,26 +1,32 @@
 # Funding Proposal: Berkeley Business School Gala (December 2026)
 
 **To:** UCB Graduate Assembly Finance Committee  
-**From:** Allan Yeung, Haas School of Business Graduate Student Representative / EWMBA Association  
-**Date:** August 17, 2026  
+**From:** [Your Name/Title], Haas School of Business Graduate Student Representative / EWMBA Association  
+**Date:** [Current Date]  
 **Subject:** Funding Proposal: Berkeley Business School Winter Gala  
 
 ---
 
 ## 0. CalLink Submission Details
 
-| CalLink Form Field | Value |
+| CalLink Form Question / Field | Value |
 | :--- | :--- |
-| **Applicant Name** | Allan Yeung |
-| **Applicant Email** | allan_yeung@berkeley.edu |
-| **Funding Quiz Status** | Taken & Passed (Score: 13/13) |
-| **Certified CalLink Finance Agent?** | No |
-| **Sponsoring GA Delegate** | Allan Yeung |
-| **Sponsoring Delegate Email** | allan_yeung@berkeley.edu |
-| **Funding Program Requested** | GRSO Large-Project Funding & GRSO Continuing Funding |
-| **GRSO Name** | Haas Evening and Weekend MBA Association |
-| **GRSO ID (OASIS RSO Tracker)** | 361399 |
-| **Plant-Based Certification?** | No |
+| **Applicant Name** | |
+| **Applicant Email address** | |
+| **I have taken the 2026-2027 Funding Quiz and received a perfect score of 13/13?** | |
+| **Are you certified as a CalLink Finance Agent?** | |
+| **Who is your sponsoring GA delegate?** | |
+| **Sponsoring delegate's email address** | |
+| **I am applying for...** | |
+| **GRSO name** | |
+| **GRSO ID number as found in the OASIS RSO Tracker** | |
+| **Does your GRSO wish to self-certify as plant-based in the current funding round?** | |
+| **Brief summary of planned events or purchases** | |
+| **How much are you requesting in total?** | |
+| **Detailed budget (please use our template if possible)** | |
+| **Are you requesting funds to cover contracted services from individuals, including speaker honoraria?** | |
+| **Funding Agreement Signature (Name)** | |
+| **CalLink Submit Confirmation Text** | |
 
 ---
 
@@ -64,8 +70,8 @@
 
 ## 4. Compliance Checklist (GA Requirements)
 
-*   [x] **Sponsoring Delegate:** Allan Yeung (allan_yeung@berkeley.edu)
-*   [x] **Funding Quiz:** Allan Yeung has completed the 2026-27 GA Funding Quiz with a score of 100% (13/13).
+*   [ ] **Sponsoring Delegate:** `______________________` (Mandatory: Sponsoring delegate's name and email must be added before submission).
+*   [ ] **Funding Quiz:** Sponsoring officer has completed the 2026-27 GA Funding Quiz with a score of 100% (Mandatory).
 *   [ ] **Location Compliance:** Venue to be selected strictly on-campus or within the 2-mile radius of campus (Mandatory).
 *   [x] **Open Access:** Event is open to all UCB graduate and professional students.
 *   [x] **Plant-Based Certification:** No (Not seeking plant-based climate-conscious bonus; funding stays within standard caps).
