@@ -23,8 +23,8 @@
 *   **Date & Location:** December 5, 2026. Spieker Forum, Haas School of Business (On-Campus).
     *   *Compliance Note:* Hosting the gala on-campus at Haas ensures 100% compliance with the GA Location Restriction requiring sponsored activities to be on-campus or within a 2-mile radius of the Campus Park.
 *   **Expected Attendance:** 
-    *   UCB Graduate Students: ~200
-    *   Non-Graduate Students (Partners/Alumni/Staff): ~25
+    *   UCB Graduate Students: ~350
+    *   Non-Graduate Students (Partners/Alumni/Staff): ~100
 
 ---
 
