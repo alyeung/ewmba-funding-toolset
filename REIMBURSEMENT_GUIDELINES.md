@@ -46,35 +46,13 @@ Once you have completed steps 1–3, copy the table below, fill out the details,
 
 ---
 
-## CalLink Instructions for Officers / Financial Requestors
+## For EWMBAA Officers & Financial Requestors
 
-Only designated Financial Requestors or Agents can submit purchase requests. When submitting a reimbursement request for a student:
-1. Log into [CalLink](https://callink.berkeley.edu/).
-2. Navigate to your organization's page: Click your profile icon -> **Manage** -> Select your organization -> **Finance**.
-3. Click **Create Request** -> **Create Purchase Request**.
-4. Set the category to **Reimbursement** and select the correct account (GA Funding or internal Miscellaneous reserves).
-5. In the **Payee Information** section, enter the student's payee details (first/last name, mailing address, email, phone) and their Unique ID (UID).
-   *(Note: The payee name and details must be the student's, not yours, to ensure direct deposit is issued to the correct bank account.)*
-6. Attach the student's itemized receipt and bank statement screenshot.
-7. Submit the request. The VP of Finance/Agent will review the request (Stage 1) and move it to Stage 2.
+Are you an EWMBAA board member or Financial Requestor submitting or approving requests in CalLink? 
 
----
-
-## Graduate Assembly (GA) Compliance Rules
-
-When using GA funding (as opposed to EWMBAA internal reserves), the following rules apply:
-
-*   **Timeline:** Submit the PR on CalLink within **30 days** of the event. All GA funds must be claimed by **Dec 31** (Fall) or **June 30** (Spring); they do not roll over.
-*   **Food Limits:** Capped at **$20.00** per UCB graduate student and **$1.00** per other attendee (undergrads, staff, speakers).
-*   **Banned Items:** Alcohol, bottled water, non-compostable disposable cutlery, logo apparel/custom gear, and speaker thank-you gifts cannot be paid using GA funds. 
-*   **Travel & Tips:** Personal car travel is reimbursed on a mileage basis (requires a route map, odometer photos not accepted). Service tips are capped at 20% (over 20% requires written justification).
-*   **Contracted Services:** Services by individuals (e.g. photographers, tutors) cannot be reimbursed out-of-pocket. They must be paid directly by ASUC using a signed **Payment Voucher** and tax forms (W-9/W-8BEN).
-
----
-
-## EWMBAA Internal Funding Rules
-
-For expenses being covered by the EWMBAA's budget:
-
-*   **Pre-Approval:** All purchases must be pre-approved by the EWMBAA Executive Board / Finance Committee.
-*   **Use of Reserves:** Expenses that violate GA compliance (e.g., speaker thank-you gifts, selective mixers, alcohol) must be budgeted and approved under EWMBAA internal/club reserves.
+See the **[EWMBAA Officer Finance & CalLink Guide](./OFFICER_FINANCE_GUIDE.md)** for:
+* CalLink Purchase Request submission steps.
+* ASUC/GA Agent Stage 1 review and Stage 2 approval workflows.
+* Splitting expenses across multiple accounts or Purchase Orders.
+* Graduate Assembly (GA) per-attendee food caps and funding compliance rules.
+* EWMBAA internal club reserve policies.
