@@ -3,7 +3,7 @@
 
 Welcome, EWMBA Student Leaders! This workspace is designed to help you draft high-impact, GA-compliant funding proposals using AI. Below is the current funding schedule, followed by options for using these tools.
 
-**Looking for reimbursements?** Follow the **[4 Steps to Reimbursement Guidelines](./REIMBURSEMENT_GUIDELINES.md#4-steps-to-reimbursement-send-this-to-payees)**.
+**Looking for reimbursements?** Follow the **[3 Steps to Reimbursement Guidelines](./REIMBURSEMENT_GUIDELINES.md)**.
 
 ---
 
@@ -76,7 +76,7 @@ Use the following prompt format:
 ---
 
 ## Project Structure
-*   **[REIMBURSEMENT_GUIDELINES.md](./REIMBURSEMENT_GUIDELINES.md)**: 4-step out-of-pocket reimbursement checklist for students/payees.
+*   **[REIMBURSEMENT_GUIDELINES.md](./REIMBURSEMENT_GUIDELINES.md)**: 3-step out-of-pocket reimbursement checklist for students/payees.
 *   **[OFFICER_FINANCE_GUIDE.md](./OFFICER_FINANCE_GUIDE.md)**: CalLink submission workflow, Stage 2 approval process, and GA/EWMBAA compliance rules for board members.
 *   **[templates/FUNDING_PROPOSAL_TEMPLATE.md](file:///Users/allanyeung/Documents/ewmba-fund/templates/FUNDING_PROPOSAL_TEMPLATE.md)**: Master template optimized for GA compliance.
 *   **[templates/2026-27 Funding Guide.md](file:///Users/allanyeung/Documents/ewmba-fund/templates/2026-27%20Funding%20Guide.md)**: The official policy manual.
